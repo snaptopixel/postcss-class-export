@@ -1,0 +1,14 @@
+{
+  "name": "postcss-class-export",
+  "version": "1.0.0",
+  "description": "Exposes class names for exporting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casey Corcoran <github@snaptopixel.com> (http://snaptopixel.com)",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-selector-parser": "^2.2.1"
+  }
+}
